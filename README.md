@@ -6,5 +6,6 @@ Current works:
 
 1. Helping to merge my university capstone project into Microsoft Azure for Java SDK
 2. Finally writing my portfolio / demo website
-3. Chipping away at a program to help my partner manage inspections
-4. Finding a position as a developer!
+3. Writing the backend, API and push support for a collaboration on a food waste reducing app 
+4. Chipping away at a program to help my partner manage inspections
+5. Finding a position as a developer!
