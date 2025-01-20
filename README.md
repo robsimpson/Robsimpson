@@ -1,11 +1,4 @@
 ### About me
 
-I am an experienced Solutions Architect and commercial manager, working towards a career change into Software Engineering.
+I am an experienced IT Generalist with experience in Software Engineering, Solutions Architectecture and commercial management. I work as a developer for Grounds and Services Ltd, Christchurch. We are a small team with a broad remit, with everything from integrations, process automation and digitisation, to consuming detailed GPS and signal data to track equipment position and operation.
 
-Current works:
-
-1. Grading papers
-2. Finally writing my portfolio / demo website
-3. Writing the backend, API and push support for a collaboration on a food waste reducing app 
-4. Chipping away at a program to help my partner manage inspections
-5. Finding a position as a developer!
